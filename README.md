@@ -4,7 +4,7 @@
 
 A static prompt builder based on Anthropic's official 6-technique prompting framework. Fill in structured fields, get a clean XML-formatted prompt you can copy straight into Claude or any AI tool — with real examples, weak vs strong comparisons, and a live strength meter.
 
-**[Live demo →](https://yourusername.github.io/promptforge)**
+**[Live demo →](https://turkishdelightmu.github.io/promptforge)**
 
 ---
 
